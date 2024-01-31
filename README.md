@@ -1,2 +1,3 @@
 # appsheet_template
-share the appsheet template for re-usable
+- Appsheet template for initialize and manage the Meetup
+- https://www.appsheet.com/portfolio/925825800
